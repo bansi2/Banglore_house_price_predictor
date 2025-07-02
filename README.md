@@ -131,3 +131,4 @@ The trained model file `RidgeModel.pkl` is generated after running the Jupyter N
 
 ---
 
+![Screenshot 2025-07-02 111211](https://github.com/user-attachments/assets/58b134fc-4dcf-4edf-b482-fa193264cddc)
